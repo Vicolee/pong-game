@@ -4,8 +4,8 @@
 
 This is a game that mimics [Atari Pong](https://www.youtube.com/watch?v=_tvTsbAXuRs&feature=player_embedded) with additional modifications like the ball changing velocity and color randomly when it hits the paddle.
 
-<img src="images/purple" width="325" height="325"/>
-<img src="images/green" width="325" height="325"/>
+<img src="images/purple.png" width="325" height="325"/>
+<img src="images/green.png" width="325" height="325"/>
 
 ## Game Features
 
