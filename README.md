@@ -22,6 +22,6 @@ To run the game on your computer, run the following code.
 
 ```
 git clone git@github.com:Vicolee/pong-game.git
-cd ./pong
+cd ./pong-game
 python pong.py
 ```
